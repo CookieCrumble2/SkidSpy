@@ -1,3 +1,4 @@
+--@ Credits to TheRealx_ora for helping me with this lol
 local HMM = newcclosure(function(Instance, Method, Function)
     Method = Method:find("^__") and Method:lower() or "__" .. Method:lower()
     local OIMT = getrawmetatable(Instance); setreadonly(OIMT, false)
