@@ -1,5 +1,5 @@
 local HttpService = game:GetService("HttpService")
-local Serializer = loadstring(game:HttpGet("https://raw.githubusercontent.com/CookieCrumble2/SkidSpy/refs/heads/SkidSpy-V2/src/Serializer.luau"))()
+local Serializer = loadstring(game:HttpGet("https://raw.githubusercontent.com/NotDSF/leopard/main/rbx/leopard-syn.lua"))();
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealXORA/Roblox/refs/heads/Main/Scripts%20/Anti-Cheats%20Bypassers%20/Adonis.luau"))()
 
 --@ LoveSkids!
